@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Imroz khan
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on django
+- 📫 Reach me kimu7466@gmail.com 
